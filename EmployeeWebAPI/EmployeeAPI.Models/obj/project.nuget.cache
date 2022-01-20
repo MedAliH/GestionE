@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "E+yCrT4K3puBNIcI+JHtIqEOfBXoqjD1yNOlg+WC7oX3eDCp3X/7bD4L7TNPr3mxnoIB4Y8ZtUL3zltbzjOc7A==",
+  "success": true,
+  "projectFilePath": "C:\\My Documents\\University courses\\ASP.NET\\TP\\EmployeeWebAPI\\EmployeeAPI.Models\\EmployeeAPI.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
